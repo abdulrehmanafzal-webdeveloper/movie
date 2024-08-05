@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #5c6369;
+}
+.input-button input{
+    height: 40px;
+    width: 400px;
+    border-radius: 0.2rem;
+    font-size: 20px;
+}
+.input-button button{
+    padding: 7px;
+    background-color: #163f63;
+    color: white;
+    font-size: 14px;
+}
+.image img{
+   height: 500px;
+   width: 500px;
+   margin-left: 420px;
+   margin-top: 10px;
+   margin-bottom: 10px;
+}
+.name{
+    margin-left: 150px;
+    font-size: 30px;
+    color: white;
+}
+.description{
+    margin-left: 150px;
+    font-size: 30px;
+  color: white;
+}
+.input-button{
+    display: flex;
+    justify-content: center;
+}
